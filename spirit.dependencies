@@ -1,0 +1,14 @@
+[
+  {
+  "remote": "sr",
+  "repository": "android_kernel_moto_shamu",
+  "target_path": "kernel/moto/shamu",
+  "revision": "lollipop"
+  },
+  {
+  "remote": "tm",
+  "repository": "proprietary_vendor_motorola",
+  "target_path": "vendor/motorola",
+  "revision": "cm-12.0"
+  }
+]
