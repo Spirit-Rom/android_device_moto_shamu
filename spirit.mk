@@ -2,6 +2,8 @@
 TARGET_SCREEN_HEIGHT := 1440
 TARGET_SCREEN_WIDTH := 2560
 
+include device/moto/shamu/sm.mk
+
 # Inherit some common SR stuff.
 $(call inherit-product, vendor/spirit/config/common_phone.mk)
 
